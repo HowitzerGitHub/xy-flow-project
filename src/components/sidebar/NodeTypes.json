@@ -1,0 +1,39 @@
+[
+  {
+    "type": "additionNode",
+    "sidebarButtonLabel": "Add",
+    "symbol": "+",
+    "operatorType": "operator"
+  },
+  {
+    "type": "substractionNode",
+    "sidebarButtonLabel": "Minus",
+    "symbol": "-",
+    "operatorType": "operator"
+  },
+  {
+    "type": "divisionNode",
+    "sidebarButtonLabel": "Divide",
+    "symbol": "/",
+    "operatorType": "operator"
+  },
+  {
+    "type": "multiplicationNode",
+    "sidebarButtonLabel": "Multiply",
+    "symbol": "*",
+    "operatorType": "operator"
+  },
+  {
+    "type": "modulasNode",
+    "sidebarButtonLabel": "mod",
+    "symbol": "%",
+    "operatorType": "operator"
+  },
+
+  {
+    "type": "valueNode",
+    "sidebarButtonLabel": "Value",
+    "symbol": "__value__",
+    "operatorType": "value"
+  }
+]
